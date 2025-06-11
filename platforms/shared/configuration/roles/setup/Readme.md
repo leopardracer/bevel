@@ -4,7 +4,7 @@
 [//]: # (##############################################################################################)
 
 ## shared/configuration/roles/setup
-This folder contains common roles required for setting up necessery requirements.
+This folder contains common roles required for setting up necessary requirements.
 It contains following roles.
 ### Ambassador
 This roles setups Ambassador.
